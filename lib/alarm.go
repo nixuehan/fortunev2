@@ -9,7 +9,7 @@ import (
 type Alarm struct {}
 
 const (
-	WebHook = `https://oapi.dingtalk.com/robot/send?access_token=fe5089dd78ee5198f4ec64380651ee8127ccf2295503ca688c64986128459a3e`
+	WebHook = `https://oapi.dingtalk.com/robot/send?access_token=fe5089dd78ee5198f4ec686128459a3e`
 	KeyWork = `财神到`
 )
 
