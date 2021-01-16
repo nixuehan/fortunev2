@@ -6,4 +6,4 @@
 
 地球不毁灭  炒股不停止  2021 大牛吧  老子要退休
 
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3363295869,2467511306&fm=26&gp=0.jpg)
