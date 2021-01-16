@@ -5,3 +5,7 @@
 再也不用盯盘了
 
 地球不毁灭  炒股不停止  2021 大牛吧  老子要退休
+
+就这样：
+
+![Image text](https://raw.githubusercontent.com/nixuehan/fortunev2/main/skin.png)
