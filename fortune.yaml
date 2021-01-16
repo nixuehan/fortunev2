@@ -1,0 +1,12 @@
+greater:
+  -
+    name: sz000651
+    price: [62.00]
+  -
+    name: sz000333
+    price: [97.00]
+
+less:
+  -
+    name: sz000651
+    price: [64.00]
